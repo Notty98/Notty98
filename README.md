@@ -12,7 +12,7 @@
 
 ###
 
-<p><br>📚 Bachelor Degree in Computer Science at University of Bologna <br> </p>
+<p>📚 Bachelor Degree in Computer Science at University of Bologna</p>
 
 ###
 
